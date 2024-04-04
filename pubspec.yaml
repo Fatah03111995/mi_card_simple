@@ -21,9 +21,9 @@ flutter:
     - images/
 
   fonts:
-    - family: poppins
+    - family: Poppins
       fonts:
         - asset: fonts\Poppins-Regular.ttf
-    - family: dancingScript
+    - family: Dancing Script
       fonts:
         - asset: fonts\DancingScript-Regular.ttf
